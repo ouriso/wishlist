@@ -1,0 +1,77 @@
+items:
+  - link: https://www.bagandwallet.ru/collection/wandrd/product/ryukzak-wandrd-the-prvke-series-kupit
+    realized: true
+    name: Wandrd The prvke (blue)
+    src: src/img/wandrd-prvke-blue.jpeg
+  - link: https://doctorhead.ru/product/gravastar_sirius_pro_space_grey/
+    realized: true
+    name: Gravastar Sirius Pro
+    src: src/img/gravastar-sirius-pro.webp
+  - link: https://www.logitech.com/ru-ru/products/mice/m720-triathlon.910-004791.html
+    realized: true
+    name: Logitech M720 Triathlon
+    src: src/img/logitech-m720.webp
+  - link: https://www.honor.ru/wearables/honor-band-6/
+    realized: true
+    name: Honor Band 6
+    src: src/img/honor-band-6.webp
+  - link: https://www.bagandwallet.ru/collection/wandrd-2/product/nesesser-wandrd-camera-cube-mini-kupit
+    realized: false
+    name: Wandrd Camera Cube Mini+
+    src: src/img/wandrd-camera-cube.jpeg
+  - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
+    realized: false
+    name: Bamboo Slate
+    src: src/img/bamboo-slate.jpg
+  - link: https://www.kant.ru/catalog/product/3592063/
+    realized: false
+    name: NanoDry Shower Blue
+    src: src/img/nano-dry-shower.jpeg
+  - link: https://www.dji.com/mini-3-pro
+    realized: false
+    name: Mini 3 Pro
+    src: src/img/mini-3-pro.jpg
+  - link: https://store.steampowered.com/steamdeck
+    realized: false
+    name: Steam Deck
+    src: src/img/steam-deck.jpg
+  - link: https://store.dji.com/product/pocket-2?vid=98631
+    realized: false
+    name: Osmo Pocket 2
+    src: src/img/osmo-pocket-2.jpg
+  - link: https://www.logitech.com/ru-ru/products/keyboards/mx-keys-wireless-keyboard.html
+    realized: false
+    name: Logitech MX Keys
+    src: src/img/logitech-mx-keys.webp
+  - link: https://www.orbitkey.eu/collections/orbitkey-nest/products/orbitkey-nest?variant=32546115190880
+    realized: true
+    name: Orbitkey Nest
+    src: src/img/orbitkey-nest.jpg
+  - link: https://www.swiftpoint.com/products/ergonomic-mice-propoint
+    realized: false
+    name: ProPoint
+    src: src/img/propoint.jpg
+  - link: https://kulturazanosa.ru/podarok
+    realized: false
+    name: "#культуразаноса"
+    src: src/img/кulturazanosa.png
+  - link: https://www.samsung.com/ru/memory-storage/portable-ssd/portable-ssd-t5-2tb-black-mu-pa2t0b-ww/
+    realized: false
+    name: Samsung T5
+    src: src/img/samsung-t5.jpg
+  - link: https://www.ozon.ru/product/philips-sh50-50-dlya-shaver-series-5000-britvennye-golovki-3-sht-34564919/?sh=LqvCgtQU-w
+    realized: false
+    name: Бритвенные головки Philips SH50/50
+    src: src/img/philips-sh50.webp
+  - link: https://olympus.store/lenses/pen-om-d-lenses/m-zuiko/m-zuiko-digital-ed-40-150mm-1-4-0-5-6-r-silver-1.html
+    realized: true
+    name: Объектив Olympus 40-150 мм F4-5.6
+    src: src/img/olympus-40-150.jpeg
+  - link: https://www.avito.ru/sankt-peterburg/fototehnika/olympus_ed_8mm_f1.8_pro_fisheye_micro_43_1543637547
+    realized: false
+    name: Объектив Olympus 8 мм F1.8
+    src: src/img/olympus-8_1.8.webp
+  - link: https://www.dns-shop.ru/product/e1805c39a5b1ed20/igrovaa-konsol-nintendo-switch/
+    realized: true
+    name: Nintendo Switch 
+    src: src/img/switch.webp

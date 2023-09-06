@@ -27,7 +27,7 @@ async function srcShortcode(src) {
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.setBrowserSyncConfig({
-        files: '/public/static/**/*.css',
+        files: 'public/wishlist/static/**/*.css',
     });
     eleventyConfig.addDataExtension('yml', contents => yaml.parse(contents));
     eleventyConfig.addLiquidFilter('isUrl', value => String(value).indexOf('http') === 0);

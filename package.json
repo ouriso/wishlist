@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch:sass": "sass src/static/scss:public/static/css --watch",
-    "build:sass": "sass src/static/scss:public/static/css",
+    "watch:sass": "sass src/static/scss:public/wishlist/static/css --watch",
+    "build:sass": "sass src/static/scss:public/wishlist/static/css",
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "ELEVENTY_ENV=development eleventy",
     "start": "npm run watch:eleventy & npm run watch:sass",

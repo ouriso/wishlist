@@ -10,7 +10,7 @@ async function imageShortcode(src, alt, className) {
         formats: ['webp'],
     });
 
-    return `<img class="${className}" src="/wishlist${data.url}" alt="${alt}" loading="lazy" decoding="async">`;
+    return `<img class="${className}" src="wishlist${data.url}" alt="${alt}" loading="lazy" decoding="async">`;
 }
 
 async function srcShortcode(src) {

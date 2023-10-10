@@ -7,10 +7,6 @@ items:
     realized: false
     name: Bamboo Slate
     src: src/img/bamboo-slate.jpg
-  - link: https://www.kant.ru/catalog/product/3592063/
-    realized: false
-    name: NanoDry Shower Blue
-    src: src/img/nano-dry-shower.jpeg
   - link: https://store.steampowered.com/steamdeck
     realized: false
     name: Steam Deck
@@ -88,3 +84,7 @@ items:
     realized: true
     name: Объектив Olympus 40-150 мм F4-5.6
     src: src/img/olympus-40-150.jpeg
+  - link: https://www.kant.ru/catalog/product/3592063/
+    realized: true
+    name: NanoDry Shower Blue
+    src: src/img/nano-dry-shower.jpeg

@@ -3,10 +3,22 @@ items:
     realized: false
     name: Перкуссионный пистолет
     src: src/img/percussion_gun.webp
-  - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
+  - link: https://www.dns-shop.ru/product/c29db63b05ad3332/graficeskij-planset-xp-pen-deco-01-v2/
     realized: false
-    name: Bamboo Slate
-    src: src/img/bamboo-slate.jpg
+    name: Графический планшет A5
+    src: src/img/xp-pen-deco.jpg.webp
+  - link: https://ozon.ru/t/22NBwla
+    realized: false
+    name: Lego Retro Camera
+    src: src/img/lego-camera.webp
+  - link: https://market.yandex.ru/cc/aJHCA2o
+    realized: false
+    name: Набор Маджонг (любой)
+    src: src/img/madzhong.webp
+  - link: https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/dzhoystiki_i_ruli-ASgBAgICAUTGB7ZO?q=%D1%81+%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B9+%D1%81%D0%B2%D1%8F%D0%B7%D1%8C%D1%8E
+    realized: false
+    name: Руль игровой (б/у)
+    src: src/img/wheel.jpeg
   - link: https://store.steampowered.com/steamdeck
     realized: false
     name: Steam Deck
@@ -15,10 +27,6 @@ items:
     realized: false
     name: Steam Wishlist
     src: src/img/steam_logo.jpg
-  - link: https://www.dns-shop.ru/catalog/recipe/312b2b5f7f5bafe0/rtx-3060/
-    realized: false
-    name: GeForce RTX 3060
-    src: src/img/rtx3060.jpg
   - link: https://store.dji.com/product/pocket-2?vid=98631
     realized: false
     name: Osmo Pocket 2
@@ -31,18 +39,10 @@ items:
     realized: false
     name: ProPoint
     src: src/img/propoint.jpg
-  - link: https://kulturazanosa.ru/podarok
-    realized: false
-    name: "#культуразаноса"
-    src: src/img/кulturazanosa.png
   - link: https://www.samsung.com/ru/memory-storage/portable-ssd/portable-ssd-t5-2tb-black-mu-pa2t0b-ww/
     realized: false
     name: Samsung T5
     src: src/img/samsung-t5.jpg
-  - link: https://www.ozon.ru/product/philips-sh50-50-dlya-shaver-series-5000-britvennye-golovki-3-sht-34564919/?sh=LqvCgtQU-w
-    realized: false
-    name: Бритвенные головки Philips SH50/50
-    src: src/img/philips-sh50.webp
   - link: https://www.avito.ru/sankt-peterburg/fototehnika/olympus_ed_8mm_f1.8_pro_fisheye_micro_43_1543637547
     realized: false
     name: Объектив Olympus 8 мм F1.8
@@ -55,7 +55,15 @@ items:
     realized: false
     name: Mini 3 Pro
     src: src/img/mini-3-pro.jpg
+  - link: https://www.wacom.com/ru-ru/products/smartpads/bamboo-slate-and-bamboo-folio
+    realized: false
+    name: Bamboo Slate
+    src: src/img/bamboo-slate.jpg
 
+  - link: https://www.dns-shop.ru/catalog/recipe/312b2b5f7f5bafe0/rtx-3060/
+    realized: true
+    name: GeForce RTX 3060
+    src: src/img/rtx3060.jpg
   - link: https://www.dns-shop.ru/product/e1805c39a5b1ed20/igrovaa-konsol-nintendo-switch/
     realized: true
     name: Nintendo Switch 

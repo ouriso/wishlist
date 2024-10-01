@@ -3,18 +3,6 @@ items:
     realized: false
     name: Перкуссионный пистолет
     src: src/img/percussion_gun.webp
-  - link: https://www.dns-shop.ru/product/c29db63b05ad3332/graficeskij-planset-xp-pen-deco-01-v2/
-    realized: false
-    name: Графический планшет A5
-    src: src/img/xp-pen-deco.jpg.webp
-  - link: https://ozon.ru/t/22NBwla
-    realized: false
-    name: Lego Retro Camera
-    src: src/img/lego-camera.webp
-  - link: https://market.yandex.ru/cc/aJHCA2o
-    realized: false
-    name: Набор Маджонг (любой)
-    src: src/img/madzhong.webp
   - link: https://market.yandex.ru/cc/2s0ZGQq
     realized: false
     name: Зажим с шаровой головкой
@@ -35,10 +23,6 @@ items:
     realized: false
     name: Osmo Pocket 2
     src: src/img/osmo-pocket-2.jpg
-  - link: https://www.logitech.com/ru-ru/products/keyboards/mx-keys-wireless-keyboard.html
-    realized: false
-    name: Logitech MX Keys
-    src: src/img/logitech-mx-keys.webp
   - link: https://www.swiftpoint.com/products/ergonomic-mice-propoint
     realized: false
     name: ProPoint
@@ -68,6 +52,22 @@ items:
     name: Руль игровой (б/у)
     src: src/img/wheel.jpeg
 
+  - link: https://www.logitech.com/ru-ru/products/keyboards/mx-keys-wireless-keyboard.html
+    realized: true
+    name: Logitech MX Keys
+    src: src/img/logitech-mx-keys.webp
+  - link: https://www.dns-shop.ru/product/c29db63b05ad3332/graficeskij-planset-xp-pen-deco-01-v2/
+    realized: true
+    name: Графический планшет A5
+    src: src/img/xp-pen-deco.jpg.webp
+  - link: https://ozon.ru/t/22NBwla
+    realized: true
+    name: Lego Retro Camera
+    src: src/img/lego-camera.webp
+  - link: https://market.yandex.ru/cc/aJHCA2o
+    realized: true
+    name: Набор Маджонг (любой)
+    src: src/img/madzhong.webp
   - link: https://www.dns-shop.ru/catalog/recipe/312b2b5f7f5bafe0/rtx-3060/
     realized: true
     name: GeForce RTX 3060

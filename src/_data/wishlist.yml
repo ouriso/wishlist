@@ -3,10 +3,6 @@ items:
     realized: false
     name: Перкуссионный пистолет
     src: src/img/percussion_gun.webp
-  - link: https://market.yandex.ru/cc/2s0ZGQq
-    realized: false
-    name: Зажим с шаровой головкой
-    src: src/img/small-rig.webp
   - link: https://photocosmos.ru/dopolnitelnye-remni-wandrd-premium-accessory-straps-sinie/
     realized: false
     name: Дополнительные ремешки Wandrd
@@ -23,6 +19,10 @@ items:
     realized: false
     name: Osmo Pocket 2
     src: src/img/osmo-pocket-2.jpg
+  - link: https://papershoot.ru/
+    realized: false
+    name: Камера Papershoot
+    src: src/img/papershoot.png
   - link: https://www.swiftpoint.com/products/ergonomic-mice-propoint
     realized: false
     name: ProPoint
@@ -80,6 +80,10 @@ items:
     realized: true
     name: Wandrd The prvke (blue)
     src: src/img/wandrd-prvke-blue.jpeg
+  - link: https://market.yandex.ru/cc/2s0ZGQq
+    realized: true
+    name: Зажим с шаровой головкой
+    src: src/img/small-rig.webp
   - link: https://doctorhead.ru/product/gravastar_sirius_pro_space_grey/
     realized: true
     name: Gravastar Sirius Pro

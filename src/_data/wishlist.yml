@@ -1,8 +1,28 @@
 items:
-  - link: https://market.yandex.ru/search?text=%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82&rs=eJw9jz8PwVAUxdsYhMVkYnhJmUysRZ5dwiTC0qWsNompEjFZWIQ0NLFIMIjEUn-6CLH4Cp2Ib6HnDJZfbs4979zzcoNQVe2oN1Ux7EJAZQT69imgeJ8Dyh51DRSvfECnxfkJj7HUobShOF_4_RkUucbsCfitFBR_gFnJMDMECh00EpxNbL0NnKLKtCNoxS7QF0zr46KsueQVyhy6lS0iecye0eKfcseedSSLBl996ElCMTzOd9BrIkfpgs4WW6lRyXHrUi9TGbKziSZ-nK1WbP7grTB_p-G6NWH-gf4S31aYFuF_0_Tv2WR6-gHYI4Nu&allowCollapsing=1&local-offers-first=0
+  - link: https://www.crowdgames.ru/collection/korni
     realized: false
-    name: Перкуссионный пистолет
-    src: src/img/percussion_gun.webp
+    name: Root (настолка)
+    src: src/img/root.png
+  - link: https://kultura-zanosa.ru/spb/certificate
+    realized: false
+    name: Культура заноса (сертификат)
+    src: src/img/kultura_zanosa.png
+  - link: https://igora-drive.qtickets.ru/event/20500?base_color=7a335c
+    realized: false
+    name: Игора драйв (сертификат)
+    src: src/img/igora_drive.webp
+  - link: https://consumer.huawei.com/ru/wearables/watch-fit4/
+    realized: false
+    name: Huawei Watch Fit 4 (gray)
+    src: src/img/watch_fit_4.png
+  - link: https://massagegun-grossfit.ru/
+    realized: false
+    name: Перкуссионный массажер
+    src: src/img/percussion_gun.png
+  - link: https://ozon.ru/t/sYg262V
+    realized: false
+    name: Пуско-зарядное устройство с компрессором
+    src: src/img/NTVSC.png
   - link: https://photocosmos.ru/dopolnitelnye-remni-wandrd-premium-accessory-straps-sinie/
     realized: false
     name: Дополнительные ремешки Wandrd

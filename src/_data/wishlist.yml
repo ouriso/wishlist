@@ -7,6 +7,10 @@ items:
     realized: false
     name: Бритва Braun Series 5
     src: src/img/braun_s52.jpg.webp
+  - link: https://somiasleep.ru/shop/odeyala/dyishashhee-odeyalo-1spalnoe/
+    realized: false
+    name: Одеяло вентилируемое Somia
+    src: src/img/somia-blanket.jpg
   - link: https://kultura-zanosa.ru/spb/certificate
     realized: false
     name: Культура заноса (сертификат)

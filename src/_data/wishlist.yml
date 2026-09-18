@@ -11,6 +11,10 @@ items:
     realized: false
     name: Одеяло вентилируемое Somia
     src: src/img/somia-blanket.jpg
+  - link: https://alice.yandex.ru/wearables/drops
+    realized: false
+    name: Наушники Я.Дропс
+    src: src/img/drops.webp
   - link: https://kultura-zanosa.ru/spb/certificate
     realized: false
     name: Культура заноса (сертификат)

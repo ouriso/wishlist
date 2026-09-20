@@ -55,6 +55,10 @@ items:
     realized: false
     name: Объектив Olympus 8 мм F1.8
     src: src/img/olympus-8_1.8.webp
+  - link: https://www.xp-pen.ru/product/note-plus.html
+    realized: false
+    name: XP Pen Note Plus
+    src: src/img/xp_pen_note_plus.webp
   - link: https://www.dji.com/mini-3-pro
     realized: false
     name: Mini 3 Pro

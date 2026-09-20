@@ -15,6 +15,10 @@ items:
     realized: false
     name: Наушники Я.Дропс
     src: src/img/drops.webp
+  - link: https://www.dns-shop.ru/product/7c6d98b84c841b80/kompaktnyj-fotoapparat-ricoh-gr-iii-cernyj/
+    realized: false
+    name: Ricoh GR3
+    src: src/img/ricoh_gr3.webp
   - link: https://kultura-zanosa.ru/spb/certificate
     realized: false
     name: Культура заноса (сертификат)

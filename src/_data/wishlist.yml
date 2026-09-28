@@ -7,10 +7,6 @@ items:
     realized: false
     name: Бритва Braun Series 5
     src: src/img/braun_s52.jpg.webp
-  - link: https://somiasleep.ru/shop/odeyala/dyishashhee-odeyalo-1spalnoe/
-    realized: false
-    name: Одеяло вентилируемое Somia
-    src: src/img/somia-blanket.jpg
   - link: https://alice.yandex.ru/wearables/drops
     realized: false
     name: Наушники Я.Дропс
@@ -76,6 +72,10 @@ items:
     name: Руль игровой (б/у)
     src: src/img/wheel.jpeg
 
+  - link: https://somiasleep.ru/shop/odeyala/dyishashhee-odeyalo-1spalnoe/
+    realized: true
+    name: Одеяло вентилируемое Somia
+    src: src/img/somia-blanket.jpg
   - link: https://consumer.huawei.com/ru/wearables/watch-fit4/
     realized: true
     name: Huawei Watch Fit 4 (gray)

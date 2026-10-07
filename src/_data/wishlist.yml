@@ -1,8 +1,4 @@
 items:
-  - link: https://www.dns-shop.ru/product/bf871cd84de9f70c/3d-printer-bambu-lab-a1-mini-combo-eu/
-    realized: false
-    name: Bamboo Lab A1 mini Combo
-    src: src/img/bamboo_lab_a1_mini.jpg.webp
   - link: https://www.dns-shop.ru/product/fc25166bcf1b1c3e/elektrobritva-braun-series-5-52-a1000s/
     realized: false
     name: Бритва Braun Series 5
@@ -72,6 +68,10 @@ items:
     name: Руль игровой (б/у)
     src: src/img/wheel.jpeg
 
+  - link: https://www.dns-shop.ru/product/bf871cd84de9f70c/3d-printer-bambu-lab-a1-mini-combo-eu/
+    realized: true
+    name: Bamboo Lab A1 mini Combo
+    src: src/img/bamboo_lab_a1_mini.jpg.webp
   - link: https://somiasleep.ru/shop/odeyala/dyishashhee-odeyalo-1spalnoe/
     realized: true
     name: Одеяло вентилируемое Somia
